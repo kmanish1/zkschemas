@@ -23,6 +23,8 @@ sample JSON response -
 ```
 
 ## Technical Breakdown
+Verifies that the user has successfully completed a course on Udemy, often required for certifications or employment validation.
+
 
 ## Schema Code
 
