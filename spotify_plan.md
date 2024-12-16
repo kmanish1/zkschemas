@@ -49,7 +49,7 @@ This schema is used to verify if the user is on a free plan or a premium plan. T
           "operation": "!="
         }
       ],
-      "nullifer": "isTrialUser"
+      "nullifier": "isTrialUser"
     }
   ],
   "HRCondition": ["Verify that you have bought spotify subscription"],

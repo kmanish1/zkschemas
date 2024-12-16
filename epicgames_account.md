@@ -52,7 +52,7 @@ This schema is to verify that user has a verfied epic games account. We check th
           "operation": "="
         }
       ],
-      "nullifer": "data|default|email"
+      "nullifier": "data|default|email"
     }
   ],
   "HRCondition": ["Verify that your have EA games account"],

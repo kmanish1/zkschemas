@@ -42,7 +42,7 @@ This schema verifies the existence of a verified DoraHacks account using the Dor
           "operation": "!="
         }
       ],
-      "nullifer": "uuid"
+      "nullifier": "uuid"
     }
   ],
   "HRCondition": ["Verify that you have a dorahacks Account"],
